@@ -12,8 +12,9 @@ libraries: Numpy, Keras
 
 # Workflow
 1) download the code and open it in jupyter notebook
-2) give appropriate address to the training and test data ( The datas can be downloaded from the link provided)
-3) Train the model
-4) Specify the test image address for testing on a particular image
+2) install necessary libraries
+3) give appropriate address to the training and test data ( The datas can be downloaded from the link provided)
+4) Train the model
+5) Specify the test image address for testing on a particular image
 
 link for data -(https://drive.google.com/file/d/1pLupzm09JKqKJ1AJ_XUfKKllzlZSDoeZ/view?usp=sharing)
