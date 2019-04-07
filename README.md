@@ -14,4 +14,5 @@ libraries: Numpy, Keras
 1) download the code and open it in jupyter notebook
 2) give appropriate address to the training and test data ( The datas can be downloaded from the link provided)
 3) Specify the test image address for testing on a particular image
+
 link for data -(https://drive.google.com/file/d/1pLupzm09JKqKJ1AJ_XUfKKllzlZSDoeZ/view?usp=sharing)
