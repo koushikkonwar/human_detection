@@ -1,6 +1,6 @@
 # human_detection
 A binary classifier to detect the presence of human in an image. A simple convolutional network has been applied with one hidden layer 
-and L2 regularisation. Data augmentation has been done by the datagenerator function of keras. Training set of around 7000 images has been
+and L2 regularisation. Data augmentation has been done by the ImageDataGenerator function of keras. Training set of around 7000 images has been
 used and the results are been validated after each epoch with around 800 images.
 
 # Operating system
